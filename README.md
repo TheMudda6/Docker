@@ -3,7 +3,13 @@
 This repository showcases my hands-on projects building containerised applications using Docker.
 
 📦 Projects
-🔹 Flask + Redis + NGINX (Load Balanced Application)
+### Flask + Redis + NGINX (Load Balanced)
+- Multi-container architecture
+- NGINX reverse proxy
+- Redis shared state
+
+### Hello Flask
+- Simple containerised app
 
 A scalable multi-container application built with Docker Compose.
 
